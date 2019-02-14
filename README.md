@@ -1,7 +1,8 @@
 # sshvpn
-ssh proxy socks5 which done public  in windows via proxifier 
+ssh proxy socks5 is a whole tunnel for windows working by proxifier 
 # Tested
-python 2.7
 windows 7
+# Requirements
+python 2.7
 # Run
 pyhton ssh.py
