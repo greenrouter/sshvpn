@@ -4,5 +4,8 @@ ssh proxy socks5 is a whole tunnel for windows working by proxifier
 windows 7
 # Requirements
 python 2.7
-# Run
+# Run command
 pyhton ssh.py
+# Run GUI
+pyhton sshvpngui.py
+
