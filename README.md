@@ -6,6 +6,6 @@ windows 7
 python 2.7
 # Run command
 pyhton ssh.py
-# Run GUI
-pyhton sshvpngui.py
+# ssh vpn GUI
+https://github.com/msrouter/sshvpngui
 
